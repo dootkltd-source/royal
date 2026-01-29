@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1e3a8a" rx="100"/>
+  <path fill="white" d="M370.7 229.3l-28-56A79.9 79.9 0 0 0 271.3 128H152a24 24 0 0 0-24 24v208h-24a24 24 0 0 0 0 48h304a24 24 0 0 0 0-48h-8V256c0-13.3-10.7-24-24-24h-13.3c7.2-2.3 13.3-8.4 13.3-16 0-9.5-6.2-17.7-14.8-19.1zM176 176h95.3c15.8 0 30.1 8.6 37.9 22.1l11.4 22.8c-3.6-1.5-7.6-2.9-11.9-2.9H176v-42z"/>
+  <text x="50%" y="420" text-anchor="middle" fill="white" font-family="sans-serif" font-weight="bold" font-size="60">ROYAL</text>
+</svg>
